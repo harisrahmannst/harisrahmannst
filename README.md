@@ -1,10 +1,8 @@
 ## 👋, "HELLO WORLD"
 
-[![Linkedin Badge](https://img.shields.io/badge/-harisrahmannst-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harisrahmannst/)](https://www.linkedin.com/in/harisrahmannst/) [![Github Badge](https://img.shields.io/badge/-harisrahmannst-grey?style=flat&logo=github&logoColor=white&link=https://github.com/harisrahmannst/)](https://www.github.com/harisrahmannst/) ![Gitter](https://img.shields.io/gitter/room/harisrahmannst/harisrahmannst) <p align='left'>Im IT Infrastructure Engineer & DevOps</p>
+[![Linkedin Badge](https://img.shields.io/badge/-harisrahmannst-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harisrahmannst/)](https://www.linkedin.com/in/harisrahmannst/) [![Github Badge](https://img.shields.io/badge/-harisrahmannst-grey?style=flat&logo=github&logoColor=white&link=https://github.com/harisrahmannst/)](https://www.github.com/harisrahmannst/) ![Gitter](https://img.shields.io/gitter/room/harisrahmannst/harisrahmannst) <p align='left'>IT Infrastructure | Network Engineer | System Administrator | DevOps </p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=harisrahmannst alt=harisrahmannst /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=harisrahmannst&show_icons=true&theme=radical)
+<p align=left> <img src=https://github-readme-stats.vercel.app/api?username=harisrahmannst alt=harisrahmannst /> <p align=left> <img src=https://github-profile-trophy.vercel.app/?username=harisrahmannst />
 
 <h3 align="left">Languages and Tools:</h3>
 
