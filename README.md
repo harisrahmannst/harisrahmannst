@@ -18,9 +18,6 @@ God, thank you for the sun and rain. 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=harisrahmannst&icon=0&color=1)](https://visitcount.itsvg.in)
 
